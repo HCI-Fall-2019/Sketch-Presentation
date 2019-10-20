@@ -20,4 +20,4 @@
 - [ ] Act as a TV (Youtube)
 
 # Future Plans
-We will satrt by implementing one feature at a time, prioritizing the most important features first 
+We will start by implementing one feature at a time, prioritizing the most important features first 
